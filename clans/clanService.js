@@ -12,7 +12,7 @@ app.service("ClanService", function(){
   ];
 
   this.clanList = [{
-      id: 0, name: "Ahrimanes",
+      id: 0, name: "pepe",
       filters: ["Sabbat", "All Bloodlines", "Dark Ages"],
       disciplines: ["Animalism", "Potence", "Spiritus"]
     },
